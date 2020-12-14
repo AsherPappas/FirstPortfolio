@@ -25,8 +25,16 @@
     width: 100%;
     background-size: cover;
 }
+#contact {
+    background: url(https://wallpaperaccess.com/full/1112178.jpg) no-repeat center center fixed;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
 #about {
-    background: url(https://wallpaperset.com/w/full/5/4/5/108060.jpg) no-repeat center center fixed;
+    background: url(https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHw%3D&w=1000&q=80) no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;
